@@ -2,25 +2,22 @@
 
 Este proyecto analiza tendencias de consumo energético a nivel global utilizando Python.
 
-## 📊 Objetivo
+## Objetivo
 Identificar patrones, crecimiento y cambios en el consumo energético mundial.
 
-## 🛠️ Tecnologías
+## Tecnologías
 - Python
 - Pandas
 - Matplotlib / Seaborn
 
-## 📁 Dataset
-[Explica de dónde viene el dataset]
-
-## 📈 Resultados
+## Resultados
 - Tendencias de crecimiento por región
 - Comparación entre fuentes de energía
 - Insights clave
 
-## 🚀 Cómo usar
+## Cómo usar
 1. Descargar el notebook
 2. Ejecutar en Jupyter Notebook
 
-## 👤 Autor
+## Autor
 @cardenasv10
