@@ -1,4 +1,4 @@
-# Análisis de Consumo Energético Global 🌍⚡
+# Análisis de Consumo Energético Global
 
 Este proyecto analiza tendencias de consumo energético a nivel global utilizando Python.
 
